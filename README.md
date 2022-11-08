@@ -1,0 +1,2 @@
+# .github
+Syrentec repository collection
